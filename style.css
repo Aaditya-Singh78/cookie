@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    padding: 15px 0 0 0;
+    font-family: 'Nunito', sans-serif;
+}
+#links li a{
+    color: #edede9;
+    font-size: 1.25rem;
+    padding: 0 0 0 5px;
+    margin: 5px;
+}
+#links li a:hover{
+    color: #9d4edd;
+}
+#links{
+    margin-right: 20px;
+}
