@@ -32,8 +32,15 @@ h1{
 #links{
     margin-right: 20px;
 }
+
 footer{
     background-color: #606c38;
     color: white;
     padding: 5px 5px 5px 10px;
+}
+
+@media(max-width: 1200px) {
+    .content p{
+        font-size: 0.85rem;
+    }
 }
